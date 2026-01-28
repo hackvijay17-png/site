@@ -1,6 +1,6 @@
----
-id: forever-free
-title: The Forever Free Tier
+free dimond---
+id: free fier
+title: The Forever Free dimond
 sidebar_label: The Forever Free Tier
 slug: /forever-free
 ---
